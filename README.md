@@ -13,3 +13,5 @@ be in violation of the DAP or something wrong with my twitter application.
 
 According to the sample data, we have collected data base on geo-tagged. Such a
 dataset provides detailed longitude and latitude. Following the instruction, we are attempting to put all the sample data on the US map base on their geo locations. Those data represent user-tagged location with their tweets. Unfortunately, I am not able to remap or collect data due to the ban of API key. Thus, I decide to subit the alternative work --- recreate the tutorial.
+
+![Sample mapping](img/alternative_png_ver.png)
